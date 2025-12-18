@@ -1,3 +1,6 @@
+
+import { Heading } from './components/Heading';
+
 import './App.css'
 
 export function App() {
@@ -5,7 +8,7 @@ export function App() {
     
     return (
         <> 
-        <h1>Olá Mundo (Do App)</h1>
+        <Heading/>
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem beatae quia eos
             nemo doloribus quasi esse libero suscipit modi. 
