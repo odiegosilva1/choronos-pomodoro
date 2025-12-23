@@ -1,4 +1,7 @@
 # Logs
+/node-v24.12 (2).0-linux-x64
+/node-v24.12 (3).0-linux-x64
+/node-v24.12.0-linux-x64 
 logs
 *.log
 npm-debug.log*
